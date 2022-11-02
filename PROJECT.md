@@ -1,4 +1,4 @@
-# Project by GRebSoftware
+# Project by re:Software
 
 ## Environment
 
@@ -18,7 +18,7 @@ Documentation for the above boilerplate software can be found at:
 
 ## License
 
-Copyright 2022-present [GRebSoftware][parent-url], All rights reserved.
+Copyright 2022-present [re:Software][parent-url], All rights reserved.
 
 Licensed under the [LGPL v3.0](LICENSE)
 
